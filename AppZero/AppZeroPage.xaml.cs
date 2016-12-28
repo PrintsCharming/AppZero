@@ -2,7 +2,7 @@
 
 namespace AppZero
 {
-	public partial class AppZeroPage : ContentPage
+	public partial class AppZeroPage : TabbedPage
 	{
 		public AppZeroPage()
 		{
